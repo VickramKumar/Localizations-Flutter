@@ -1,0 +1,21 @@
+{
+    "language" : "اردو",
+    "localization" : "لوکلائزیشن",
+    "personal_information" : "ذاتی معلومات",
+    "name" : "نام",
+    "email" : "ای میل",
+    "password" : "پاس ورڈ",
+    "sign_up" : "سائن اپ",
+    "login" : "لاگ ان کریں",
+    "logout" : "لاگ آوٹ",
+    "or" : "یا",
+    "already_have_an_account" : "پہلے سے ہی اکاؤنٹ ہے؟",
+    "do_not_have_an_account" : "اکاؤنٹ نہیں ہے؟",
+    "sign_up_with_google" : "گوگل کے ساتھ سائن اپ کریں۔",
+    "you_have_logged_in_succesfuly" : "آپ نے کامیابی سے لاگ ان کیا ہے۔",
+    "you_have_signed_up_succesfuly" : "آپ نے کامیابی سے سائن اپ کیا ہے۔",
+    "please_fill_all_the_fields" : "براہ کرم تمام فیلڈز کو بھریں!",
+    "the_email_should_contain_gmail" : "ای میل میں @gmail.com ہونا چاہیے!",
+    "the_password_should_not_empty" : "پاس ورڈ خالی نہیں ہونا چاہئے!",
+    "the_email_should_contain_gmail_and_password_should_not_empty" : "ای میل میں @gmail.com ہونا چاہیے اور پاس ووڈ خالی نہیں ہونا چاہیے۔"
+}

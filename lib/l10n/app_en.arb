@@ -1,0 +1,22 @@
+{
+    "language" : "English",
+    "localization" : "Localization",
+    "personal_information" : "Personal Information",
+    "name" : "Name",
+    "email" : "Email",
+    "password" : "Password",
+    "sign_up" : "Sign Up",
+    "login" : "Log In",
+    "logout" : "Log Out",
+    "or" : "Or",
+    "already_have_an_account" : "Already have an account?",
+    "do_not_have_an_account" : "Don't have an account?",
+    "sign_up_with_google" : "Sign Up With Google",
+    "you_have_logged_in_succesfuly" : "You've Logged In succesfuly",
+    "you_have_signed_up_succesfuly" : "You've Signed-Up succesfuly",
+    "please_fill_all_the_fields" : "Please, fill all the fields!",
+    "the_email_should_contain_gmail" : "The Email should contain '@gmail.com'!",
+    "the_password_should_not_empty" : "The Password should not Empty!",
+    "the_email_should_contain_gmail_and_password_should_not_empty" : "The Email should contain @gmail.com and Password should not Empty!"
+
+}

@@ -1,0 +1,21 @@
+{
+    "language" : "हिंदी",
+    "localization" : "स्थानीयकरण",
+    "personal_information" : "व्यक्तिगत जानकारी",
+    "name" : "नाम",
+    "email" : "ईमेल",
+    "password" : "पासवर्ड", 
+    "sign_up" : "साइन अप करें",
+    "login" : "लॉग इन करें",
+    "logout" : "लॉग आउट",
+    "or" : "या",
+    "already_have_an_account" : "पहले से ही एक खाता है?",
+    "do_not_have_an_account" : "अब तक कोई खाता नहीं है?",
+    "sign_up_with_google" : "गूगल के साथ साइन अप करें",
+    "you_have_logged_in_succesfuly" : "आपने सफलतापूर्वक लॉग इन कर लिया है",
+    "you_have_signed_up_succesfuly" : "आपने सफलतापूर्वक साइन-अप कर लिया है",
+    "please_fill_all_the_fields" : "कृपया, सभी फ़ील्ड भरें!",
+    "the_email_should_contain_gmail" : "ईमेल में '@gmail.com' होना चाहिए!",
+    "the_password_should_not_empty" : "पासवर्ड खाली नहीं होना चाहिए!",
+    "the_email_should_contain_gmail_and_password_should_not_empty" : "ईमेल में @gmail.com होना चाहिए और पासवर्ड खाली नहीं होना चाहिए!"
+}
